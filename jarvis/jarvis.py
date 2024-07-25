@@ -1,6 +1,6 @@
 
 def main():
-    print("welocome to the jarvis project")
+    print("welcome to the jarvis project")
 
 
 
